@@ -44,3 +44,8 @@ Various data analysis techniques were employed to interpret and extract meaningf
 Microsoft PowerBI and Power Query were tools used to analyze and create the interactive dashboard. 
 
 
+
+
+![Screenshot 2024-07-25 013102](https://github.com/user-attachments/assets/3b1414f3-74bc-4c17-b4ad-c340743de6e0)
+
+
